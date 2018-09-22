@@ -1,0 +1,39 @@
+
+h1 {
+    font-family: 'Slabo 27px', serif;
+
+}
+div {
+    
+}
+#header {
+    display: flex;
+    padding: 20px;
+    border: 2px white solid;
+    justify-content: space-around;
+    font-family:'Roboto Condensed', sans-serif;
+    font-size: 45px;
+}
+#body {
+    background-color: #8097bc;
+}
+#nbalogo {
+    width: 10%;
+}
+.name {
+    font-family: 'Bitter', serif;
+    font-size: 50px;
+    background: linear-gradient(#4d4f51,#74777a,#9fa4a8,#c9ced3,#edf3f9);
+}
+#jointeffort {
+    font-family: 'Arvo', serif;
+    font-size: 60px;
+
+}
+#partners {
+    display: flex;
+    justify-content: space-around;
+}
+#body3 {
+        background: linear-gradient(#4d4f51,#74777a,#9fa4a8,#c9ced3,#edf3f9);
+}
